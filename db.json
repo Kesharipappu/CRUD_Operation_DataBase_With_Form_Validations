@@ -1,0 +1,113 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Ranjeet",
+      "lastName": "Keshari",
+      "email": "rkeshari1990@gmail.com",
+      "mobile": "8987033032",
+      "salary": "65000"
+    },
+    {
+      "id": 2,
+      "firstName": "Mukesh",
+      "lastName": "Keshari",
+      "email": "mukesh123@gmail.com",
+      "mobile": "7903863430",
+      "salary": "60000"
+    },
+    {
+      "id": 3,
+      "firstName": "Deepak ",
+      "lastName": "Keshari",
+      "email": "deepal789@gmail.com",
+      "mobile": "9686701572",
+      "salary": "90000"
+    },
+    {
+      "id": 4,
+      "firstName": "Sanju",
+      "lastName": "Kumari",
+      "email": "sanju9632@gmail.com",
+      "mobile": "8963214598",
+      "salary": "55000"
+    },
+    {
+      "id": 5,
+      "firstName": "Deepnarayan",
+      "lastName": "Keshari",
+      "email": "deepkeshari874@gmail.com",
+      "mobile": "9386701572",
+      "salary": "30000"
+    },
+    {
+      "id": 6,
+      "firstName": "Binda",
+      "lastName": "Devi",
+      "email": "binda125@gmail.com",
+      "mobile": "9304238923",
+      "salary": "96303"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Pappu Kumar Keshari",
+      "email": "kumar.pappu18@gmail.com",
+      "password": "pappu123",
+      "mobile": 7488520735,
+      "id": 1
+    },
+    {
+      "fullname": "Ranjeet Kumar Keshari",
+      "email": "rkeshari1990@gmail.com",
+      "password": "ranjeet123",
+      "mobile": 8987033032,
+      "id": 2
+    },
+    {
+      "fullname": "Mukesh Kumar Keshari",
+      "email": "mukeshkeshari@gmail.com",
+      "password": "mukesh123",
+      "mobile": 7903863430,
+      "id": 3
+    },
+    {
+      "fullname": "Sanju Keshari",
+      "email": "sanju56@gmail.com",
+      "password": "sanju123",
+      "mobile": 9304238923,
+      "id": 4
+    },
+    {
+      "fullname": "Amit PAndey",
+      "email": "amitpandey@gmail.com",
+      "password": "amit123",
+      "mobile": 8963214598,
+      "id": 6
+    },
+    {
+      "fullname": "Amit PAndey",
+      "email": "amitpandey@gmail.com",
+      "password": "amit123",
+      "mobile": 8963214598,
+      "id": 7
+    },
+    {
+      "fullname": "Monika Keshari",
+      "email": "monika@gmail.com",
+      "password": "monika123",
+      "mobile": 8963214598,
+      "id": 8
+    },
+    {
+      "fullname": "Deepanjali Kumari",
+      "email": "deepanjali@gmail.com",
+      "password": "deepanjali123",
+      "mobile": 9874563210,
+      "id": 9
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
